@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    margin: 0;
+    padding: 0
+}
+body {
+    font-family: Arial;
+    font-size: 18px;
+    height: 100vh;
+    background: #999;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.popup .MuiPaper-root{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup button{
+    margin-top: 20px;
+}
+.popup p,
+.popup h2,
+.popup h3 {
+    margin: 10px 0;
+}
