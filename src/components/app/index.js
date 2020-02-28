@@ -69,7 +69,7 @@ const App = () => {
 
   return loading
     ?
-      <img className={'loader'} src={'https://clipartmag.com/assets/img/loading.gif'} />
+      <img className={'loader'} src={'https://clipartmag.com/assets/img/loading.gif'} alt={'loader'} />
     :
     <Wrap>
       <Table>

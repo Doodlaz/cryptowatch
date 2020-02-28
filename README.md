@@ -3,7 +3,12 @@
 
 ReactJs APP
 
-### `npm start`
+Install it and run:
+
+```bash
+npm i
+npm start
+```
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
